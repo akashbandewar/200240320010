@@ -1,0 +1,5 @@
+body {
+    background: url('https://picsum.photos/1000/600?random=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

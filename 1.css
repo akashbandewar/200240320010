@@ -1,0 +1,26 @@
+body {
+    background: url('https://picsum.photos/1000/600?random=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#row1,
+#row3 {
+    height: 200px;
+    font-size: 300%;
+}
+
+#row2 {
+    height: 200px;
+    font-size: 200%;
+}
+
+#row1 div,
+#row3 div {
+    text-align: center;
+}
+
+
+#row2 div {
+    text-align: center;
+}
